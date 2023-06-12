@@ -1,4 +1,4 @@
-#Task 10
+#Task 4...9
 sizeList = 10
 numbers = []
 sumVal = sum_indEven = sumEven = sumMinMax = sumMinMaxInd = 0
